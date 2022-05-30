@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(earth.png);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.loginbox{
+    width: 400px;
+    height:420px;
+    background: #fff;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+
+}
+.avatar{
+    width: 400px;
+    
+}
+.mail{
+    width:20%;
+    position:"absolute";
+}
+.loginbox input{
+    width: 50%;
+}
+.fp{
+    font-size: 15px;
+    
+}
+.mail{
+    border: none;
+    border-bottom: 1px #fff;
+    background: transparent;
+outline: none;
+    height: 40px;
+}
+.pd{
+    border: none;
+    border-bottom:blue;
+    background: transparent;
+outline: none;
+    height: 40px;
+}
+.a1{
+    width: 50px;
+}
+.a2{
+    width: 50px;
+}
+.l{
+    background-color:blue;
+    color: #fff;
+}
